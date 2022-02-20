@@ -8,6 +8,7 @@ export default function App() {
       <Text>數位二甲</Text>
       <Text>陳威誠</Text>
       <Text>110919008</Text>
+      <Text>test</Text>
       
       <StatusBar style="auto" />
     </View>

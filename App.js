@@ -19,13 +19,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor:"#D10000",
   },
-  // box:{
-  //   height:700,
-  //   width:400,
-  //   backgroundColor:"#D10000",
-  //   position:"absolute",
-  //   // top:10,
-  // }
+  
 });
 
 

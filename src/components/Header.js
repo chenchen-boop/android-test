@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     //fontFamily: "Gill Sans Extrabold", sans-serif,
     fontStyle:'italic',
-    fontFamily:'bold',
+    //fontFamily:'bold',
     //font:''
     fontWeight:"300",
     color:"#D10000",
